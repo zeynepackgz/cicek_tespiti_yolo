@@ -6,7 +6,7 @@ Bu proje, YOLOv4 nesne tespit modeli ve OpenCV kullanılarak farklı çiçek tü
 - **Toplam Görüntü:** 842
   - **Eğitim Görüntüleri:** 642
   - **Test Görüntüleri:** 200
-- **Toplam Etiket:** Veri setindeki çiçek türlerini etiketlemek için 1.368 anotasyon oluşturulmuştur.
+- **Toplam Etiket:** Veri setindeki çiçek türleri için 1.368 etiket kullanıldı.
 
 ### Etiketleme Aracı
 makesense.ai
