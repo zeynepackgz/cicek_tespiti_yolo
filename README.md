@@ -26,7 +26,7 @@ Model, çiçek türlerini doğru bir şekilde tespit etmek ve sınıflandırmak 
 ![Çiçek Tespiti Örneği](./images/chart.png)
 
 ### Ağırlık Dosyası
-Ağırlık dosyasını [buradan indirebilirsiniz]([https://drive.google.com/link](https://drive.google.com/file/d/1YcZNLYbTVCQEIRkX527ZyFTJgZq05_gx/view?usp=sharing)).
+Ağırlık dosyası ([https://drive.google.com/link](https://drive.google.com/file/d/1YcZNLYbTVCQEIRkX527ZyFTJgZq05_gx/view?usp=sharing)).
 
 
 ## Lisans
