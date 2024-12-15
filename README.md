@@ -30,4 +30,4 @@ Ağırlık dosyası ([https://drive.google.com/link](https://drive.google.com/fi
 
 
 ## Lisans
-Bu proje MIT Lisansı altında lisanslanmıştır. Detaylar için LICENSE dosyasına bakın.
+Bu proje MIT Lisansı altında lisanslanmıştır. Detaylar için [LICENSE](./LICENSE) dosyasına bakın.
