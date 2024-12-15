@@ -31,3 +31,6 @@ Ağırlık dosyası ([https://drive.google.com/link](https://drive.google.com/fi
 
 ## Lisans
 Bu proje MIT Lisansı altında lisanslanmıştır. Detaylar için [LICENSE](./LICENSE) dosyasına bakın.
+
+## Kaynaklar 
+Bu projeyi daha iyi anlamak için ([link](https://www.udemy.com/course/bilgisayarl-goru-yolov4-ile-nesne-tanma/?srsltid=AfmBOor9RfnD-pFB4OA79AQdLCvgq7VNOKnoKTrOO-1AbA-117rwqon4)) kursu alabilirsiniz.
