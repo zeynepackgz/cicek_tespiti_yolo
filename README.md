@@ -23,8 +23,11 @@ makesense.ai
 
 ## Sonuçlar
 Model, çiçek türlerini doğru bir şekilde tespit etmek ve sınıflandırmak için test veri seti üzerinde değerlendirilmiştir. Aşağıda örnek bir tespit görseli bulunmaktadır:
+![Çiçek Tespiti Örneği](./images/chart.png)
 
-![Çiçek Tespiti Örneği]("C:\Users\Huawei\OneDrive\Masaüstü\chart.png")
+### Ağırlık Dosyası
+Ağırlık dosyasını [buradan indirebilirsiniz]([https://drive.google.com/link](https://drive.google.com/file/d/1YcZNLYbTVCQEIRkX527ZyFTJgZq05_gx/view?usp=sharing)).
+
 
 ## Lisans
 Bu proje MIT Lisansı altında lisanslanmıştır. Detaylar için LICENSE dosyasına bakın.
